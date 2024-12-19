@@ -742,3 +742,5 @@ nftset=/zohomail.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/igcdn-photos-e-a.akamaihd.net
 nftset=/instagramstatic.com
+nftset=/95.167.13.50
+nftset=/188.19.132.154
